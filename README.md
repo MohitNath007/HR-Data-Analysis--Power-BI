@@ -1,39 +1,39 @@
-# Pharma-Data-Analysis-Power-BI 
+HR Data Analysis
 
-Dashboard Link - https://app.powerbi.com/links/1MN1UMcrue?ctid=3fd69537-a730-4fe2-87d4-f9e743300c09&pbi_source=linkShare
+DASHBOARD LINK - https://app.powerbi.com/view?r=eyJrIjoiZDFjYWUzY2MtMWU4Ni00MWQwLThmZjctMjc4ZmRiODQ0NjY0IiwidCI6IjNmZDY5NTM3LWE3MzAtNGZlMi04N2Q0LWY5ZTc0MzMwMGMwOSJ9
 
-**Internship Project at Psyliq: Pharma Data Analysis with Power BI**
+Internship Project at Psyliq: HR Data Analysis with Power BI
 
-Excited to present my internship project at Psyliq, focusing on pharmaceutical data analysis using Power BI. 📊💊
+Excited to showcase the insights gained from my internship project at Psyliq, where I focused on HR data analysis using Power BI. 📊💼
 
-**Project Overview:**
-- **Title:** Pharma Data Analysis & Visualization
-- **Objective:** Analyze and visualize key pharmaceutical metrics for informed decision-making.
+Project Overview:
 
-**Intern Tasks:**
-1. **Data Prep & Cleaning:**
-   - Structured and organized pharmaceutical data efficiently.
-   - Enhanced data integrity and reliability for accurate predictions.
+Title: HR Data Analysis & Visualization
+Objective: Analyze and visualize key HR metrics to facilitate data-driven decision-making.
+Intern Tasks:
 
-2. **Feature Engineering:**
-   - Engineered relevant features to enhance analytical capabilities.
-   - Extracted key indicators for pharmaceutical risk assessment.
+Data Prep & Cleaning:
 
-3. **Model Development:**
-   - Utilized machine learning algorithms for accurate predictions.
-   - Developed a robust model for pharmaceutical risk assessment.
+Organized and cleaned HR-related data to ensure accuracy and reliability.
+Addressed data inconsistencies and improved overall data quality.
+Feature Engineering:
 
-4. **Interactive Dashboard:**
-   - Designed a user-friendly Power BI dashboard for visualizing key metrics and trends.
+Engineered relevant features to enhance the analysis of HR metrics.
+Extracted key indicators for employee performance and engagement.
+Model Development:
 
-**Key Achievements:**
-- Transformed raw pharmaceutical data into a structured, reliable format.
-- Addressed data quality issues, ensuring model integrity.
-- Developed a robust model for pharmaceutical risk assessment.
-- Created an interactive dashboard for informed decision-making.
+Utilized machine learning algorithms for predictive modeling related to employee turnover or performance.
+Developed a model for forecasting HR trends and identifying potential areas for improvement.
+Interactive Dashboard:
 
-**Learnings:**
-This internship honed my skills in predictive modeling, data cleaning, and interactive dashboard creation specific to pharmaceutical analysis. Psyliq's experience expanded my proficiency and deepened my understanding of factors influencing pharmaceutical predictions.
+Designed an intuitive Power BI dashboard to visualize crucial HR metrics.
+Created interactive elements for deeper exploration of employee data.
+Key Achievements:
 
-**Skills:**
-Predictive Modeling, Feature Engineering, Interactive Dashboard Development, Data Cleaning & Preparation, Data Analysis, Machine Learning, Power BI, Excel
+Transformed raw HR data into a structured, reliable format.
+Improved data quality to ensure the integrity of the analysis.
+Developed a predictive model to forecast HR trends.
+Created an interactive Power BI dashboard for real-time monitoring of key HR metrics.
+Learnings: This internship significantly enhanced my skills in HR data analysis, feature engineering, and interactive dashboard creation using Power BI. The experience at Psyliq deepened my understanding of factors influencing HR trends and decision-making processes.
+
+Skills: HR Data Analysis, Predictive Modeling, Feature Engineering, Interactive Dashboard Development, Data Cleaning & Preparation, Machine Learning, Power BI, Excel
