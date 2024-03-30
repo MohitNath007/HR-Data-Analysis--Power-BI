@@ -20,10 +20,6 @@ Feature Engineering:
 
 Engineered relevant features to enhance the analysis of HR metrics.
 Extracted key indicators for employee performance and engagement.
-Model Development:
-
-Utilized machine learning algorithms for predictive modeling related to employee turnover or performance.
-Developed a model for forecasting HR trends and identifying potential areas for improvement.
 Interactive Dashboard:
 
 Designed an intuitive Power BI dashboard to visualize crucial HR metrics.
@@ -32,8 +28,7 @@ Key Achievements:
 
 Transformed raw HR data into a structured, reliable format.
 Improved data quality to ensure the integrity of the analysis.
-Developed a predictive model to forecast HR trends.
 Created an interactive Power BI dashboard for real-time monitoring of key HR metrics.
 Learnings: This internship significantly enhanced my skills in HR data analysis, feature engineering, and interactive dashboard creation using Power BI. The experience at Psyliq deepened my understanding of factors influencing HR trends and decision-making processes.
 
-Skills: HR Data Analysis, Predictive Modeling, Feature Engineering, Interactive Dashboard Development, Data Cleaning & Preparation, Machine Learning, Power BI, Excel
+Skills: HR Data Analysis, Interactive Dashboard Development, Data Cleaning & Preparation, Power BI, Excel
